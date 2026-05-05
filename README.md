@@ -1,14 +1,12 @@
-<table border="0" cellspacing="0" cellpadding="0" width="100%">
-  <tr>
-    <td valign="middle">
-      <h1>BARKI Ayoub</h1>
-      <em>Data Scientist & AI Engineer · Agentic AI & LLM Systems · INPT '26</em>
-    </td>
-    <td valign="middle" align="right">
-      <img src="ressources/nn-github.gif" alt="Demo" width="150"/>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="ressources/nn-github.gif" alt="Demo" width="150"/>
+</p>
+
+<h1 align="center">BARKI Ayoub</h1>
+
+<p align="center">
+  <em>Data Scientist & AI Engineer · Agentic AI & LLM Systems · Casablanca, Morocco · INPT '26</em>
+</p>
 
 <p align="center">
   <a href="https://linkedin.com/in/barkiayoub">LinkedIn</a> ·

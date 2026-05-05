@@ -1,7 +1,7 @@
 # BARKI Ayoub
 
 <p align="center">
-  <img src="ressources/nn-github.gif" alt="Demo" />
+  <img src="ressources/nn-github.gif" alt="Demo" width="150"/>
 </p>
 <!-- ![Neural Network](ressources/nn-github.gif) -->
 

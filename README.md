@@ -5,7 +5,7 @@
 <h1 align="center">BARKI Ayoub</h1>
 
 <p align="center">
-  <em>Data Scientist & AI Engineer · Agentic AI & LLM Systems · Casablanca, Morocco · INPT '26</em>
+  <em>Data Scientist & AI Engineer · Agentic AI & LLM Systems · INPT '26</em>
 </p>
 
 <p align="center">
